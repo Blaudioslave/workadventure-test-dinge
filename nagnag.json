@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/play.kraut.world\/rawmaps\/krautspace-rc3-map\/main.json"
+                 "value":"https://play.kraut.world/_/global/play.kraut.world/rawmaps/krautspace-rc3-map/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
