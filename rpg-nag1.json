@@ -223,7 +223,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/tilesets\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-umi.png",
+         "image":"pipo-map001_at-umi.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -236,7 +236,7 @@
         {
          "columns":8,
          "firstgid":49,
-         "image":"..\/..\/tilesets\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/pipo-map001.png",
+         "image":"pipo-map001.png",
          "imageheight":544,
          "imagewidth":256,
          "margin":0,
@@ -249,7 +249,7 @@
         {
          "columns":8,
          "firstgid":185,
-         "image":"..\/..\/tilesets\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-yama3.png",
+         "image":"pipo-map001_at-yama3.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -262,7 +262,7 @@
         {
          "columns":8,
          "firstgid":233,
-         "image":"..\/..\/tilesets\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-tuti.png",
+         "image":"pipo-map001_at-tuti.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -275,7 +275,7 @@
         {
          "columns":8,
          "firstgid":281,
-         "image":"..\/..\/tilesets\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-kusa.png",
+         "image":"pipo-map001_at-kusa.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -288,7 +288,7 @@
         {
          "columns":8,
          "firstgid":329,
-         "image":"..\/..\/tilesets\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -301,7 +301,7 @@
         {
          "columns":5,
          "firstgid":1393,
-         "image":"..\/..\/tilesets\/cloud_tileset\/bg_bluesky.png",
+         "image":"./cloud_tileset\/bg_bluesky.png",
          "imageheight":176,
          "imagewidth":176,
          "margin":0,
@@ -324,7 +324,7 @@
         {
          "columns":8,
          "firstgid":1418,
-         "image":"..\/..\/tilesets\/cloud_tileset\/rpgmaker_vx\/cloud_tileA5_2.png",
+         "image":"./cloud_tileset\/rpgmaker_vx\/cloud_tileA5_2.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
