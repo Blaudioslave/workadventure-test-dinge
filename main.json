@@ -108,7 +108,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/nordreihnwestfalen\/[Base]BaseChip_pipo+.png",
+         "image":"[Base]BaseChip_pipo+.png",
          "imageheight":3616,
          "imagewidth":256,
          "margin":0,
@@ -121,7 +121,7 @@
         {
          "columns":8,
          "firstgid":905,
-         "image":"..\/nordreihnwestfalen\/pipo-map001_at-umi.png",
+         "image":"pipo-map001_at-umi.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -134,7 +134,7 @@
         {
          "columns":8,
          "firstgid":953,
-         "image":"..\/nordreihnwestfalen\/pipo-map001.png",
+         "image":"pipo-map001.png",
          "imageheight":544,
          "imagewidth":256,
          "margin":0,
