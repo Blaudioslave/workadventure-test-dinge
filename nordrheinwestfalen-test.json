@@ -244,7 +244,7 @@
         {
          "columns":5,
          "firstgid":1137,
-         "image":"..\/sachsen\/bg_bluesky.png",
+         "image":"bg_bluesky.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
@@ -280,7 +280,7 @@
         {
          "columns":8,
          "firstgid":1290,
-         "image":"..\/sachsen\/cloud_tileA5_2.png",
+         "image":"cloud_tileA5_2.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
