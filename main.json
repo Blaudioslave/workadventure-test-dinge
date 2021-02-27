@@ -144,6 +144,12 @@
  "nextlayerid":11,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"jitsiUrl",
+         "type":"string",
+         "value":"meet.weimarnetz.de"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
@@ -151,7 +157,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"[Base]BaseChip_pipo+.png",
+         "image":"..\/sachsen\/[Base]BaseChip_pipo+.png",
          "imageheight":3616,
          "imagewidth":256,
          "margin":0,
